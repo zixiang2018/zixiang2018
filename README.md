@@ -1,4 +1,7 @@
-### Hi there 👋
+
+[![Zi Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixiang2018&theme=radical)](https://github.com/zixiang2018/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zixiang2018&layout=compact)](https://github.com/zixiang2018/github-readme-stats)
 
 <!--
 **zixiang2018/zixiang2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
